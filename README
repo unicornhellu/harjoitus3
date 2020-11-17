@@ -1,5 +1,5 @@
 # Harjoitus 3 Versionhallinta
-
+a)
 1. Asensin ja testasin gitiä master-koneelleni tunnilla.
 	- $ sudo apt install git
 	- $ git init xxx
@@ -12,5 +12,12 @@
 	- $ git add .
 	- $ git commit
 	- $ git push
+d)
+6. Lisäsin uutta sisältöä raporttiin, ja testasin samalla komennot:
+	- $ git log = näyttää muutokset
+	- $ git log --patch = tarkemmat muutokset
+	- $ git diff = näyttää eroavaisuudet staging ympäristössä
+	- $ git blame = näyttää kuka on tehnyt muutoksen ja milloin
+
 Kuvakaappaukset: https://hellu.home.blog/2020/11/17/versionhallinta-git/
 
