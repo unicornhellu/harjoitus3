@@ -8,3 +8,9 @@
 	- $ git clone https://github.com/unicornhellu/harjoitus3.git
 	- $ vim README
 4. Kirjoitin raportin tähän tiedostoon
+5. Lisäsin sisällön staging-vaiheeseen ja julkaisin sen.
+	- $ git add .
+	- $ git commit
+	- $ git push
+Kuvakaappaukset: https://hellu.home.blog/2020/11/17/versionhallinta-git/
+
