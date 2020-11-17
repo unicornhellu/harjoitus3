@@ -1,0 +1,10 @@
+# Harjoitus 3 Versionhallinta
+
+1. Asensin ja testasin gitiä master-koneelleni tunnilla.
+	- $ sudo apt install git
+	- $ git init xxx
+2. Tein itselleni GItHub tilin ja loin siihen uuden repositoryn.
+3. Kloonasin sen master-koneelleni ja otin sen käyttöön.
+	- $ git clone https://github.com/unicornhellu/harjoitus3.git
+	- $ vim README
+4. Kirjoitin raportin tähän tiedostoon
